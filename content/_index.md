@@ -1,11 +1,19 @@
 ---
 title: Home
 has_intro: true
-intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+intro_content: >
+  I'm a coach, trainer, facilitator and strategist focused on real-time business
+  and event-driven mindset.
+
+
+  I'm like WD-40 for your company's data; I help ease the movement of
+  information, processes and people, bringing them together into a well-oiled
+  machine.
+
+
+  I help businesses stay in control of their data, respond to customer needs
+  faster and optimise use of their IT assets, all while improving compliance,
+  security and resilience.
 intro_actions:
   - type: action
     template: action
