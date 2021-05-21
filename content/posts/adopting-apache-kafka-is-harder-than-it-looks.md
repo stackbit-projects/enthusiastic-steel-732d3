@@ -2,7 +2,6 @@
 content_img_alt = ""
 content_img_path = ""
 date = 2021-04-20T21:17:00Z
-draft = true
 excerpt = "I see too many instances of companies deploying Kafka simply as a shiny new message bus without any consideration for how it can facilitate a paradigm shift to data-driven insights."
 layout = "post"
 subtitle = ""
