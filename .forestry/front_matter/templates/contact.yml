@@ -29,9 +29,8 @@ fields:
 - type: text
   name: form_action
   label: Form Action
-  description: >-
-    The path of your custom "success" page, if you want to replace the default
-    success message.
+  description: The path of your custom "success" page, if you want to replace the
+    default success message.
 - type: field_group_list
   name: form_fields
   label: Form Fields
@@ -63,4 +62,4 @@ fields:
   config:
     required: true
 pages:
-- contact.md
+- content/contact.md

@@ -36,7 +36,7 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- contact-success.md
-- style-guide.md
-- subscribe-success.md
+- content/about.md
+- content/contact-success.md
+- content/style-guide.md
+- content/subscribe-success.md

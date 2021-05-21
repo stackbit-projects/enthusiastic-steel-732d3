@@ -50,9 +50,8 @@ fields:
 - type: text
   name: subscribe_action
   label: Subscribe Form Action
-  description: >-
-    The path of your custom "success" page, if you want to replace the default
-    success message.
+  description: The path of your custom "success" page, if you want to replace the
+    default success message.
 - type: text
   name: type
   label: Object Type

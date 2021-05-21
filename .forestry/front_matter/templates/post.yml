@@ -53,10 +53,10 @@ fields:
   config:
     required: true
 pages:
-- posts/basic-rules-for-walking-in-the-mountains.md
-- posts/fox-village-in-japan.md
-- posts/fragments-of-iceland.md
-- posts/moving-to-new-york.md
-- posts/relax-in-nature.md
-- posts/what-isphotography.md
-- posts/working-from-home.md
+- content/posts/basic-rules-for-walking-in-the-mountains.md
+- content/posts/fox-village-in-japan.md
+- content/posts/fragments-of-iceland.md
+- content/posts/moving-to-new-york.md
+- content/posts/relax-in-nature.md
+- content/posts/what-isphotography.md
+- content/posts/working-from-home.md
