@@ -33,13 +33,8 @@ seo:
       relativeUrl: true
 layout: page
 ---
+I'm a coach, trainer, facilitator and strategist based in Wellington, New Zealand. My work is focused on real-time business and event-driven mindset.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+I'm like WD-40 for your company's data; I help ease the movement of information, processes and people, bringing them together into a well-oiled machine.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
-
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
-
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
-
-*Thank You for reading!*
+I help businesses stay in control of their data, respond to customer needs faster and optimise use of their IT assets, all while improving compliance, security and resilience.
