@@ -52,5 +52,3 @@ fields:
   default: post
   config:
     required: true
-pages:
-- content/posts/basic-rules-for-walking-in-the-mountains.md
