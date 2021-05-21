@@ -52,3 +52,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- content/posts/adopting-apache-kafka-is-harder-than-it-looks.md
