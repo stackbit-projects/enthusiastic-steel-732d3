@@ -1,6 +1,6 @@
 ---
 title: Home
-has_intro: true
+has_intro: false
 intro_content: >
   I'm a coach, trainer, facilitator and strategist focused on real-time business
   and event-driven mindset.
