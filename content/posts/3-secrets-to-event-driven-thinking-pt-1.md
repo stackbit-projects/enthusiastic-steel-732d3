@@ -1,7 +1,7 @@
 +++
 content_img_alt = ""
 content_img_path = "/images/volodymyr-hryshchenko-v5vqwc9gyeu-unsplash.jpg"
-date = 2021-05-14T01:23:00Z
+date = 2021-05-10T01:23:00Z
 excerpt = "I'm posting short dialogues that highlight the 3 most common challenges I see in understanding event-driven thinking. No. 1 - Commands dressed as events"
 layout = "post"
 subtitle = ""
