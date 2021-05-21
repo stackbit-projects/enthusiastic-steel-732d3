@@ -1,6 +1,5 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work
 img_path: /images/tfl_profile_square.png
 img_alt: Allan Froy
 seo:
