@@ -8,7 +8,7 @@ params:
     template: header
     title: Ampersand
     logo_img: /images/Screenshot 2021-03-10 at 11.54.31.png
-    logo_img_alt: Ampersand Logo
+    logo_img_alt: Allan Froy Logo
     has_nav: true
     nav_links:
       - type: action
